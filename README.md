@@ -17,4 +17,3 @@
 </div>
     
 ![Snake animation](https://github.com/DaniScoton/DaniScoton/blob/output/github-contribution-grid-snake.svg)
-</div>
