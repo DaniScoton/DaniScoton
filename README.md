@@ -18,7 +18,8 @@
 ### Contact📱
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielly-scoton/)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/danielly-scoton/)
+  <a href="http://api.whatsapp.com/send?phone=5511917010917"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href = "mailto:daniellyscoton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
     
 ![snake gif](https://github.com/DaniScoton/DaniScoton/blob/output/github-contribution-grid-snake.svg)
