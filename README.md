@@ -18,6 +18,7 @@
 ### Contact📱
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielly-scoton/)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/danielly-scoton/)
 </div>
     
 ![snake gif](https://github.com/DaniScoton/DaniScoton/blob/output/github-contribution-grid-snake.svg)
