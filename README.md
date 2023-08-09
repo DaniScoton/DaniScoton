@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">  
-    <h1>Oiii! Eu sou <a href="https://www.linkedin.com/in/danielly-scoton-361b4a248/"><i>Danielly Scoton</i></a>!</h1>
+    <h1>Oiii! Eu sou <a href="https://www.linkedin.com/in/danielly-scoton-361b4a248/"><i>Danielly Scoton</i></a> !</h1>
 </div>
 
 <div align="center">
